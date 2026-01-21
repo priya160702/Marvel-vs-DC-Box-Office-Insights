@@ -80,10 +80,10 @@ To analyze and compare the Marvel and DC cinematic universes using SQL and Power
 
 ### Key Insights
 
-1. Revenue Leadership
+1. Revenue Leadership: 
    Marvel leads with $13.8B in box office revenue, while DC generates $5.3B.
 
-2. Top IMDb Ratings
+2. Top IMDb Ratings: 
    Fantastic Four holds the highest rating at 9.9, surpassing The Dark Knight at 9.0.
 
    Box Office Champions
@@ -94,13 +94,13 @@ To analyze and compare the Marvel and DC cinematic universes using SQL and Power
 
    DC’s top performer: The Dark Knight — $535M
 
-3. Ratings vs Revenue
+3. Ratings vs Revenue:
    High revenue does not always imply the highest ratings, highlighting the gap between popularity and critical acclaim.
 
-4. Trends Over Time
+4. Trends Over Time:
    Marvel shows clear dominance post-2000 in both revenue and ratings.
 
-5. Overall Impact
+5. Overall Impact:
    Across just 90 movies, superhero films generated a combined $19.11B, emphasizing the scale of the genre’s influence.
 
 ### Conclusion
