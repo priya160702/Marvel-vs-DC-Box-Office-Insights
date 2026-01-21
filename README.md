@@ -32,50 +32,51 @@ To analyze and compare the Marvel and DC cinematic universes using SQL and Power
 
 3. Building an interactive Power BI dashboard to visualize trends, KPIs, and comparisons
 
-Methodology
+### Methodology
+
 1. Data Cleaning & Transformation
 
-Standardized column formats and removed redundant data
+   Standardized column formats and removed redundant data
 
-Split genres into structured categories
+   Split genres into structured categories
 
-Converted IMDb gross values into millions for better readability
+   Converted IMDb gross values into millions for better readability
 
-Prepared the dataset for SQL ingestion
+   Prepared the dataset for SQL ingestion
 
 2. SQL Analysis
 
-Created tables and imported data using CREATE and COPY commands
+   Created tables and imported data using CREATE and COPY commands
 
-Applied SQL concepts including:
+   Applied SQL concepts including:
 
-SELECT, JOIN, UNION ALL
+   SELECT, JOIN, UNION ALL
 
-Aggregations: SUM(), AVG(), COUNT()
+   Aggregations: SUM(), AVG(), COUNT()
 
-Filters: WHERE, IN, HAVING
+   Filters: WHERE, IN, HAVING
 
-Grouping and sorting: GROUP BY, ORDER BY
+   Grouping and sorting: GROUP BY, ORDER BY
 
-Answered key questions such as:
+   Answered key questions such as:
 
-Which universe generates higher revenue?
+   Which universe generates higher revenue?
 
-Which movies have the highest IMDb ratings?
+   Which movies have the highest IMDb ratings?
 
-How do ratings and revenue evolve over time?
+   How do ratings and revenue evolve over time?
 
 3. Power BI Dashboard
 
-Interactive slicers for universe-wise and year-wise filtering
+   Interactive slicers for universe-wise and year-wise filtering
 
-KPI cards comparing revenue, ratings, and movie counts
+   KPI cards comparing revenue, ratings, and movie counts
 
-Line charts for revenue and rating trends over time
+   Line charts for revenue and rating trends over time
 
-Per-movie revenue breakdown
+   Per-movie revenue breakdown
 
-Direct Marvel vs DC revenue comparison
+   Direct Marvel vs DC revenue comparison
 
 ### Key Insights
 
@@ -106,7 +107,7 @@ Across just 90 movies, superhero films generated a combined $19.11B, emphasizing
 
 This project demonstrates how SQL and Power BI can transform an entertainment dataset into meaningful, business-ready insights. Beyond fandom, it highlights how data analytics helps measure performance, track trends, and support strategic decision-making.
 
-Whether it’s superheroes on the big screen or brands in competitive markets, data tells a story—and when visualized well, it can be just as compelling as any blockbuster.
+Whether it’s superheroes on the big screen or brands in competitive markets, data tells a story. And when that data is visualized well, it can be just as compelling as any blockbuster.
 
 ### Tech Stack: SQL | Power BI | Data Cleaning | Data Visualization | Business Analytics
 
