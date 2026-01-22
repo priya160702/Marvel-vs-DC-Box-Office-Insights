@@ -10,17 +10,17 @@ This project blends storytelling with data analytics, using SQL and Power BI to 
 
 Just as superheroes compete for dominance in their worlds, businesses compete for leadership in their markets. This analysis mirrors real-world business challenges through a familiar lens.
 
-Market Analysis:
-Compare competitors and identify market leaders through box office performance.
+1. Market Analysis:
+   Compare competitors and identify market leaders through box office performance.
 
-Customer Insights:
-Understand audience preferences using ratings and popularity metrics.
+2. Customer Insights:
+   Understand audience preferences using ratings and popularity metrics.
 
-Performance Optimization:
-Evaluate what drives success by linking revenue, ratings, and release timelines.
+3. Performance Optimization:
+   Evaluate what drives success by linking revenue, ratings, and release timelines.
 
-Data Storytelling:
-Convert raw data into clear, interactive visuals that support decision-making across teams.
+4. Data Storytelling:
+   Convert raw data into clear, interactive visuals that support decision-making across teams.
 
 Project Objective:
 
@@ -109,5 +109,5 @@ This project demonstrates how SQL and Power BI can transform an entertainment da
 
 Whether it’s superheroes on the big screen or brands in competitive markets, data tells a story. And when that data is visualized well, it can be just as compelling as any blockbuster.
 
-### Tech Stack: SQL | Power BI | Data Cleaning | Data Visualization | Business Analytics
+### Tech Stack: SQL, Power BI, Data Cleaning, Data Visualization, Business Analytics
 
