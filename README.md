@@ -22,7 +22,7 @@ Just as superheroes compete for dominance in their worlds, businesses compete fo
 4. Data Storytelling:
    Convert raw data into clear, interactive visuals that support decision-making across teams.
 
-Project Objective:
+### Project Objective:
 
 To analyze and compare the Marvel and DC cinematic universes using SQL and Power BI by:
 
